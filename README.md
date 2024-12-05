@@ -15,11 +15,11 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding: 10px; border: 1px solid #dddddd;">Широкий выбор игр</td>
+            <td style="padding: 10px; border: 1px solid #dddddd;"><a href="https://4pd-stat.com/click/6746ddf56bcc630d300edbd3/322/15003/subhub">Широкий выбор игр</a></td>
             <td style="padding: 10px; border: 1px solid #dddddd;">Казино Покердом предлагает разнообразные игровые автоматы, покер, рулетку и другие азартные игры, чтобы удовлетворить любые предпочтения игроков.</td>
         </tr>
         <tr>
-            <td style="padding: 10px; border: 1px solid #dddddd;">Большие бонусы</td>
+            <td style="padding: 10px; border: 1px solid #dddddd;"><a href="https://4pd-stat.com/click/6746ddf56bcc630d300edbd3/322/15003/subhub">Большие бонусы</a></td>
             <td style="padding: 10px; border: 1px solid #dddddd;">Получите щедрые бонусы, используя промокоды при регистрации и пополнении счета!</td>
         </tr>
         <tr>
